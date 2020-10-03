@@ -7,11 +7,11 @@
 @motorway-low-zoom-casing: #B6AEA1;
 @trunk-low-zoom-casing: #cf6649;
 @primary-low-zoom-casing: #c38a27;
-@secondary-low-zoom-casing: #9eae23;
+@secondary-low-zoom-casing: #B2B2B2;
 @motorway-casing: #B6AEA1;
 @trunk-casing: #c84e2f;
 @primary-casing: #a06b00;
-@secondary-casing: #707d05;
+@secondary-casing: #B2B2B2;
 @motorway-shield: #620728;
 @trunk-shield: #5d1b0b;
 @primary-shield: #4c2e00;
